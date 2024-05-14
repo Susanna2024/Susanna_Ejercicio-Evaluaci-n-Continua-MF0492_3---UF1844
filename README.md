@@ -1,1 +1,1 @@
-# Susanna_Ejercicio-Evaluaci-n-Continua-MF0492_3---UF1844
+This Java project simulates a library management system where users can borrow and return books. It includes functionalities such as borrowing, returning, and reserving books for premium members. The project is structured using object-oriented principles and includes classes for books, authors, users, and premium members.
